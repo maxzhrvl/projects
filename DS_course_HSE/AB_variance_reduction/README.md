@@ -5,3 +5,5 @@
 ![](https://raw.githubusercontent.com/maxzhrvl/projects/main/DS_course_HSE/AB_variance_reduction/readme_img/total_deltas_variance.png)
 
 ![](https://raw.githubusercontent.com/maxzhrvl/projects/main/DS_course_HSE/AB_variance_reduction/readme_img/deltas_density.png)
+
+![](https://raw.githubusercontent.com/maxzhrvl/projects/main/DS_course_HSE/AB_variance_reduction/readme_img/errors.png)
